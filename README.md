@@ -23,4 +23,8 @@ Random: Changes the color of the strokes to a random set of RGB values
 
 
 References:
+https://www.youtube.com/watch?v=2-mmH_nOE9Q
+
+https://www.youtube.com/watch?v=ktbYUrlN_Ws
+
 https://www.youtube.com/watch?v=_RaxUmNx1Lc
