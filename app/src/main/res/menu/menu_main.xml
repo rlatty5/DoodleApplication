@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="200"
+        android:title="Size"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_search"
+        android:orderInCategory="300"
+        android:title="Color"
+
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/action_user"
+        android:orderInCategory="400"
+        android:title="Opacity"
+
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/clear"
+        android:orderInCategory="500"
+        android:title="Clear"
+
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/undo"
+        android:orderInCategory="600"
+        android:title="Undo"
+
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/random"
+        android:orderInCategory="700"
+        android:title="Random"
+
+        app:showAsAction="ifRoom"/>
+
+</menu>
