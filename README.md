@@ -9,10 +9,15 @@ This application allows the user to set the color of the brush, the size, and qu
 Specifically:
 
 Size: Changes the size of the brush on the canvas
+
 Color: Changes the color of the strokes on the canvas
+
 Opacity: Changes the opacity and color of the strokes
+
 Clear: Clears the current painting
+
 Undo: Removes the most recent strokes from the canvas
+
 Random: Changes the color of the strokes to a random set of RGB values
 
 
